@@ -73,9 +73,9 @@ rblx - ts143y
      <br>
           <br>
                <br>
-  <img src="photo_5242692486482826549_x.jpg" alt="image" width="300" />
-<img src="photo_5256257719780449126_x.jpg" alt="image" width="300" />
-  <img src="photo_5256257719780449134_x.jpg" alt="image" width="300" />
+  <img src="photo_5242692486482826549_x.jpg" alt="image" width="250" />
+<img src="photo_5256257719780449126_x.jpg" alt="image" width="250" />
+  <img src="photo_5256257719780449134_x.jpg" alt="image" width="250" />
  
                          
 
