@@ -56,7 +56,7 @@ rblx - ts143y
       
   <div align="center">
   <img src="photo_5253977805110844595_w.jpg" alt="image" width="400" />
-    <p align="center">↑ я и мои друнсы @x36w5r 𝘯 @b3drosk1 :3  <img src="photo_5254005919966765006_y.jpg" alt="image" width="50" />
+    <p align="center">↑ я и мои друнсы @rbcyb-xX69 𝘯 @b3drosk1 :3  <img src="photo_5254005919966765006_y.jpg" alt="image" width="50" />
 <br>
 <br>
 <br>
